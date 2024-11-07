@@ -1,5 +1,5 @@
 **Project Overview**
-This project contains automated test cases for verifying key features of the Entrata.com website. The test cases are written using Selenium WebDriver and are organized to cover various functionalities like verifying the homepage title, checking image display, scheduling a demo, and handling multiple browser windows.
+This project contains automated test cases for verifying key features of the Entrata.com website. The test cases are written using Selenium WebDriver under src/test/java/testCases file and are organized to cover various functionalities like verifying the homepage title, checking image display, scheduling a demo, and handling multiple browser windows.
 
 **Test Cases**
 
